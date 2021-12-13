@@ -22,7 +22,7 @@
 
 ## 😄 Know me better
 ```javascript
-const Siddhant = {
+const yash = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS",],
   askMeAbout: ["web dev", "frontend dev", "python",],
@@ -84,9 +84,9 @@ const Siddhant = {
 
 ## 💻  Let's Connect
 <p>
-	<a href="https://discordapp.com/users/852493707810570281/"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"/></a>
-	<a href="https://github.com/MININ1NJA" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
-	<a href="mailto:mohitesiddhant16@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"alt="Gmail"/></a>
+	<a href=""><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"/></a>
+	<a href="https://github.com/botkill1" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:ymrock2003222@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"alt="Gmail"/></a>
 </p>
 
 
